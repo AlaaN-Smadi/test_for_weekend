@@ -1,0 +1,26 @@
+html{
+  background: gray;
+}
+header{
+  background: black;
+  text-align: center;
+  
+}
+h1{
+  color: whitesmoke;
+}
+li{
+  margin: 25px;
+}
+main{
+  text-align: center;
+  background: wheat;
+}
+footer{
+  text-shadow: black;
+  
+}
+h3{
+  color: white;
+  shadow: black;
+}
